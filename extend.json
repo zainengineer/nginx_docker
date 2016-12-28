@@ -1,0 +1,4 @@
+{
+  "find": "&& rm -rf /var/lib/apt/lists/*",
+  "add_new_line": "python \\"
+}
